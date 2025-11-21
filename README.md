@@ -108,6 +108,7 @@ The main screen is implemented in `KryptWorkspaceView` and is structured as:
     - Secure: informs about AEAD + nonces
     - XOR: reminds to use same mode & key for decryption
    
-      *Credits
+    **Credits
+      
       Creator: Momin Waleed
       Xor Logic: Fajar Sajid
