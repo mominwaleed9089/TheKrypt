@@ -3,7 +3,7 @@
 Krypt is a SwiftUI-based iOS app for experimenting with text encryption for the paranoid.
 It provides a clean “workspace” interface for encrypting and decrypting text, managing keys and viewing a history of operations.
 
-> **Note:** This app is primarily an educational / utility tool. Only the **Secure** mode is suitable for real security. The **XOR** mode is explicitly labeled as non-secure and for learning purposes only. The logic provided for "XOR" was provided by Analyst "Fajar Sajid" which helped create the ecryption for the educational bit. There is chatroom capabilities built in as well for a future installment of implementing a working chatroom.
+> **Note:** This app is primarily an educational / utility tool. Only the **Secure** mode is suitable for real security. The **XOR** mode is explicitly labeled as non-secure and for learning purposes only. The logic provided for "XOR" was provided by Analyst "@fajarsajid" which helped create the ecryption for the educational bit. There is chatroom capabilities built in as well for a future installment of implementing a working chatroom.
 
 ---
 
