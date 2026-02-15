@@ -112,4 +112,4 @@ The main screen is implemented in `KryptWorkspaceView` and is structured as:
       
       Creator: Momin Waleed
     
-      Xor Logic: Fajar Sajid
+      Xor Logic: @fajarsajid
